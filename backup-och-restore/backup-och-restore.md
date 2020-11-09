@@ -1,3 +1,6 @@
+***[INNEHÅLL](../_content.md)***
+
+
 # Backup & Restore
 
 ## EXPORT
@@ -18,7 +21,7 @@ SQL:
  > CREATE DATABASE [databasnamn] TEMPLATE template0;
  > ```
 
-SHELL (psql):
+SHELL:
  > ```properties
  > creatdb -T template0 [databasnamn]
  > ```
